@@ -2,6 +2,10 @@ package numbers;
 
 import java.util.ArrayList;
 
+/* 
+ * This java program is to find missing number from array
+ */
+
 public class FindMissingNumber {
 	
 	
